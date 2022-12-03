@@ -1,0 +1,32 @@
+[
+{
+  "directory": "/tmp_amd/ravel/export/ravel/5/z5289055/COMP6771/ass1/build",
+  "command": "/usr/bin/clang++-11 -I../include -I../source -g -std=c++20 -o source/CMakeFiles/debugging_main.dir/debugging_main.cpp.o -c /tmp_amd/ravel/export/ravel/5/z5289055/COMP6771/ass1/source/debugging_main.cpp",
+  "file": "/tmp_amd/ravel/export/ravel/5/z5289055/COMP6771/ass1/source/debugging_main.cpp"
+},
+{
+  "directory": "/tmp_amd/ravel/export/ravel/5/z5289055/COMP6771/ass1/build",
+  "command": "/usr/bin/clang++-11 -I../include -I../source -g -std=c++20 -o source/CMakeFiles/lexicon.dir/lexicon.cpp.o -c /tmp_amd/ravel/export/ravel/5/z5289055/COMP6771/ass1/source/lexicon.cpp",
+  "file": "/tmp_amd/ravel/export/ravel/5/z5289055/COMP6771/ass1/source/lexicon.cpp"
+},
+{
+  "directory": "/tmp_amd/ravel/export/ravel/5/z5289055/COMP6771/ass1/build",
+  "command": "/usr/bin/clang++-11 -I../include -I../source -g -std=c++20 -o source/CMakeFiles/word_ladder.dir/word_ladder.cpp.o -c /tmp_amd/ravel/export/ravel/5/z5289055/COMP6771/ass1/source/word_ladder.cpp",
+  "file": "/tmp_amd/ravel/export/ravel/5/z5289055/COMP6771/ass1/source/word_ladder.cpp"
+},
+{
+  "directory": "/tmp_amd/ravel/export/ravel/5/z5289055/COMP6771/ass1/build",
+  "command": "/usr/bin/clang++-11 -I../include -I../test -I../test/. -g -std=c++20 -o test/CMakeFiles/test_main.dir/test_main.cpp.o -c /tmp_amd/ravel/export/ravel/5/z5289055/COMP6771/ass1/test/test_main.cpp",
+  "file": "/tmp_amd/ravel/export/ravel/5/z5289055/COMP6771/ass1/test/test_main.cpp"
+},
+{
+  "directory": "/tmp_amd/ravel/export/ravel/5/z5289055/COMP6771/ass1/build",
+  "command": "/usr/bin/clang++-11 -I../include -I../test/word_ladder -I../test/. -g -std=c++20 -o test/word_ladder/CMakeFiles/word_ladder_test_benchmark.dir/word_ladder_test_benchmark.cpp.o -c /tmp_amd/ravel/export/ravel/5/z5289055/COMP6771/ass1/test/word_ladder/word_ladder_test_benchmark.cpp",
+  "file": "/tmp_amd/ravel/export/ravel/5/z5289055/COMP6771/ass1/test/word_ladder/word_ladder_test_benchmark.cpp"
+},
+{
+  "directory": "/tmp_amd/ravel/export/ravel/5/z5289055/COMP6771/ass1/build",
+  "command": "/usr/bin/clang++-11 -I../include -I../test/word_ladder -I../test/. -g -std=c++20 -o test/word_ladder/CMakeFiles/word_ladder_test1.dir/word_ladder_test1.cpp.o -c /tmp_amd/ravel/export/ravel/5/z5289055/COMP6771/ass1/test/word_ladder/word_ladder_test1.cpp",
+  "file": "/tmp_amd/ravel/export/ravel/5/z5289055/COMP6771/ass1/test/word_ladder/word_ladder_test1.cpp"
+}
+]

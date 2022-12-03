@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="Linux-clang++-11"
+	BuildStamp="20220613-1606-Experimental"
+	Name="vx6"
+	Generator="ctest-3.18.4"
+	CompilerName="/usr/bin/clang++-11"
+	CompilerVersion="11.0.1"
+	OSName="Linux"
+	Hostname="vx8"
+	OSRelease="4.19.0-0.bpo.19-amd64"
+	OSVersion="#1 SMP Debian 4.19.232-1~deb9u1 (2022-03-08)"
+	OSPlatform="x86_64"
+	Is64Bits="1"
+	VendorString="GenuineIntel"
+	VendorID="Intel Corporation"
+	FamilyID="6"
+	ModelID="85"
+	ProcessorCacheSize="22528"
+	NumberOfLogicalCPU="64"
+	NumberOfPhysicalCPU="32"
+	TotalVirtualMemory="0"
+	TotalPhysicalMemory="385595"
+	LogicalProcessorsPerPhysical="2"
+	ProcessorClockFrequency="1653.17"
+	>
+	<Testing>
+		<StartDateTime>Jun 14 02:06 AEST</StartDateTime>
+		<StartTestTime>1655136398</StartTestTime>
+		<TestList>
+			<Test>./test/word_ladder/test.word_ladder_test_benchmark</Test>
+			<Test>./test/word_ladder/test.word_ladder_test1</Test>
+		</TestList>
+		<Test Status="notrun">
+			<Name>test.word_ladder_test_benchmark</Name>
+			<Path>./test/word_ladder</Path>
+			<FullName>./test/word_ladder/test.word_ladder_test_benchmark</FullName>
+			<FullCommandLine></FullCommandLine>
+			<Results>
+				<NamedMeasurement type="numeric/double" name="Processors">
+					<Value>1</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Completion Status">
+					<Value>Unable to find executable</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Command Line">
+					<Value></Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Environment">
+					<Value></Value>
+				</NamedMeasurement>
+				<Measurement>
+					<Value>Unable to find executable: word_ladder_test_benchmark</Value>
+				</Measurement>
+			</Results>
+		</Test>
+		<Test Status="failed">
+			<Name>test.word_ladder_test1</Name>
+			<Path>./test/word_ladder</Path>
+			<FullName>./test/word_ladder/test.word_ladder_test1</FullName>
+			<FullCommandLine>/tmp_amd/ravel/export/ravel/5/z5289055/COMP6771/ass1/build/test/word_ladder/word_ladder_test1</FullCommandLine>
+			<Results>
+				<NamedMeasurement type="text/string" name="Exit Code">
+					<Value>Failed</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Exit Value">
+					<Value>1</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Execution Time">
+					<Value>0.176772</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Processors">
+					<Value>1</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Completion Status">
+					<Value>Completed</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Command Line">
+					<Value>/tmp_amd/ravel/export/ravel/5/z5289055/COMP6771/ass1/build/test/word_ladder/word_ladder_test1</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Environment">
+					<Value>#CTEST_RESOURCE_GROUP_COUNT=</Value>
+				</NamedMeasurement>
+				<Measurement>
+					<Value encoding="base64" compression="gzip">eJytUsFKxEAMvecr3g90SndPDqiIqyB4EjwvcSa1A3Vm6KTuHsRvt60X0ZMwD3JJHnnJS+izLuiUJn8c2XuZjipFO4QCxi2rG/C+M93eXGBIRcE5j8GxhhQNPc0Rp6ADmmv0aULKa74QNXVBrGiuELR6Y2Padd/2hwHtHzOMy9nu9gu5Kuhf6hb3Nw+PdwdLfhZowhzlnMWpeMjZyWb99zXepBR+FUvAc+SXcaOnLBF9GGXRvawLWueE4yLFosPHEj0vSp64FJm2n/hVoC8D+8tm====</Value>
+				</Measurement>
+			</Results>
+		</Test>
+		<EndDateTime>Jun 14 02:06 AEST</EndDateTime>
+		<EndTestTime>1655136398</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>

@@ -1,0 +1,53 @@
+Start testing: Jun 14 02:06 AEST
+----------------------------------------------------------
+Unable to find executable: word_ladder_test_benchmark
+2/2 Testing: test.word_ladder_test_benchmark
+2/2 Test: test.word_ladder_test_benchmark
+Command: ""
+Directory: /tmp_amd/ravel/export/ravel/5/z5289055/COMP6771/ass1/build/test/word_ladder
+"test.word_ladder_test_benchmark" start time: 
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"test.word_ladder_test_benchmark" end time: Jun 14 02:06 AEST
+"test.word_ladder_test_benchmark" time elapsed: 00:00:00
+----------------------------------------------------------
+
+1/2 Testing: test.word_ladder_test1
+1/2 Test: test.word_ladder_test1
+Command: "/tmp_amd/ravel/export/ravel/5/z5289055/COMP6771/ass1/build/test/word_ladder/word_ladder_test1"
+Directory: /tmp_amd/ravel/export/ravel/5/z5289055/COMP6771/ass1/build/test/word_ladder
+"test.word_ladder_test1" start time: Jun 14 02:06 AEST
+Output:
+----------------------------------------------------------
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+word_ladder_test1 is a Catch v2.13.9 host application.
+Run with -? for options
+
+-------------------------------------------------------------------------------
+at -> it
+-------------------------------------------------------------------------------
+../test/word_ladder/word_ladder_test1.cpp:23
+...............................................................................
+
+../test/word_ladder/word_ladder_test1.cpp:23: FAILED:
+due to unexpected exception with message:
+  Unable to open file.
+
+===============================================================================
+test cases: 1 | 1 failed
+assertions: 1 | 1 failed
+
+<end of output>
+Test time =   0.18 sec
+----------------------------------------------------------
+Test Failed.
+"test.word_ladder_test1" end time: Jun 14 02:06 AEST
+"test.word_ladder_test1" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Jun 14 02:06 AEST
