@@ -1,0 +1,114 @@
+Start testing: Jul 10 01:02 AEST
+----------------------------------------------------------
+1/6 Testing: test.euclidean_vector_test1
+1/6 Test: test.euclidean_vector_test1
+Command: "/tmp_amd/ravel/export/ravel/5/z5289055/COMP6771/ass2/build/test/euclidean_vector/euclidean_vector_test1"
+Directory: /tmp_amd/ravel/export/ravel/5/z5289055/COMP6771/ass2/build/test/euclidean_vector
+"test.euclidean_vector_test1" start time: Jul 10 01:02 AEST
+Output:
+----------------------------------------------------------
+===============================================================================
+All tests passed (1 assertion in 1 test case)
+
+<end of output>
+Test time =   0.30 sec
+----------------------------------------------------------
+Test Passed.
+"test.euclidean_vector_test1" end time: Jul 10 01:02 AEST
+"test.euclidean_vector_test1" time elapsed: 00:00:00
+----------------------------------------------------------
+
+3/6 Testing: test.ev_operations_tests
+3/6 Test: test.ev_operations_tests
+Command: "/tmp_amd/ravel/export/ravel/5/z5289055/COMP6771/ass2/build/test/euclidean_vector/ev_operations_tests"
+Directory: /tmp_amd/ravel/export/ravel/5/z5289055/COMP6771/ass2/build/test/euclidean_vector
+"test.ev_operations_tests" start time: Jul 10 01:02 AEST
+Output:
+----------------------------------------------------------
+===============================================================================
+All tests passed (49 assertions in 1 test case)
+
+<end of output>
+Test time =   0.34 sec
+----------------------------------------------------------
+Test Passed.
+"test.ev_operations_tests" end time: Jul 10 01:02 AEST
+"test.ev_operations_tests" time elapsed: 00:00:00
+----------------------------------------------------------
+
+4/6 Testing: test.ev_member_functions_test
+4/6 Test: test.ev_member_functions_test
+Command: "/tmp_amd/ravel/export/ravel/5/z5289055/COMP6771/ass2/build/test/euclidean_vector/ev_member_functions_test"
+Directory: /tmp_amd/ravel/export/ravel/5/z5289055/COMP6771/ass2/build/test/euclidean_vector
+"test.ev_member_functions_test" start time: Jul 10 01:02 AEST
+Output:
+----------------------------------------------------------
+===============================================================================
+All tests passed (14 assertions in 1 test case)
+
+<end of output>
+Test time =   0.35 sec
+----------------------------------------------------------
+Test Passed.
+"test.ev_member_functions_test" end time: Jul 10 01:02 AEST
+"test.ev_member_functions_test" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/6 Testing: test.ev_constructors_test
+2/6 Test: test.ev_constructors_test
+Command: "/tmp_amd/ravel/export/ravel/5/z5289055/COMP6771/ass2/build/test/euclidean_vector/ev_constructors_test"
+Directory: /tmp_amd/ravel/export/ravel/5/z5289055/COMP6771/ass2/build/test/euclidean_vector
+"test.ev_constructors_test" start time: Jul 10 01:02 AEST
+Output:
+----------------------------------------------------------
+===============================================================================
+All tests passed (23 assertions in 1 test case)
+
+<end of output>
+Test time =   0.37 sec
+----------------------------------------------------------
+Test Passed.
+"test.ev_constructors_test" end time: Jul 10 01:02 AEST
+"test.ev_constructors_test" time elapsed: 00:00:00
+----------------------------------------------------------
+
+6/6 Testing: test.ev_utility_functions_test
+6/6 Test: test.ev_utility_functions_test
+Command: "/tmp_amd/ravel/export/ravel/5/z5289055/COMP6771/ass2/build/test/euclidean_vector/ev_utility_functions_test"
+Directory: /tmp_amd/ravel/export/ravel/5/z5289055/COMP6771/ass2/build/test/euclidean_vector
+"test.ev_utility_functions_test" start time: Jul 10 01:02 AEST
+Output:
+----------------------------------------------------------
+===============================================================================
+All tests passed (8 assertions in 1 test case)
+
+<end of output>
+Test time =   0.35 sec
+----------------------------------------------------------
+Test Passed.
+"test.ev_utility_functions_test" end time: Jul 10 01:02 AEST
+"test.ev_utility_functions_test" time elapsed: 00:00:00
+----------------------------------------------------------
+
+5/6 Testing: test.ev_friends_test
+5/6 Test: test.ev_friends_test
+Command: "/tmp_amd/ravel/export/ravel/5/z5289055/COMP6771/ass2/build/test/euclidean_vector/ev_friends_test"
+Directory: /tmp_amd/ravel/export/ravel/5/z5289055/COMP6771/ass2/build/test/euclidean_vector
+"test.ev_friends_test" start time: Jul 10 01:02 AEST
+Output:
+----------------------------------------------------------
+Check if format for output stream friend function is correct by comparing supposed and actual cout format below:
+Output stream friend function supposed output: [10.5 3.3 0 883]
+Output stream friend function actual output:   [10.5 3.3 0 883]
+===============================================================================
+All tests passed (17 assertions in 1 test case)
+
+<end of output>
+Test time =   0.36 sec
+----------------------------------------------------------
+Test Passed.
+"test.ev_friends_test" end time: Jul 10 01:02 AEST
+"test.ev_friends_test" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Jul 10 01:02 AEST

@@ -1,0 +1,42 @@
+[
+{
+  "directory": "/tmp_amd/ravel/export/ravel/5/z5289055/COMP6771/ass2/build",
+  "command": "/usr/bin/clang++-11 -I../include -I../source  -fvisibility=hidden -fstack-protector -fdiagnostics-color=always -pedantic -Werror -Wall -Wextra -Wcast-align -Wconversion -Wdouble-promotion -Wnon-virtual-dtor -Wold-style-cast -Woverloaded-virtual -Wshadow -Wsign-conversion -Wsign-promo -Wunused -Wformat=2 -Wodr -Wno-attributes -Wnull-dereference -Wno-unused-command-line-argument -stdlib=libc++ -isystem /usr/lib/llvm-11/include/c++/v1 -g -fsanitize=address,undefined -fstack-protector-strong -std=c++20 -o source/CMakeFiles/euclidean_vector.dir/euclidean_vector.cpp.o -c /tmp_amd/ravel/export/ravel/5/z5289055/COMP6771/ass2/source/euclidean_vector.cpp",
+  "file": "/tmp_amd/ravel/export/ravel/5/z5289055/COMP6771/ass2/source/euclidean_vector.cpp"
+},
+{
+  "directory": "/tmp_amd/ravel/export/ravel/5/z5289055/COMP6771/ass2/build",
+  "command": "/usr/bin/clang++-11 -I../include -I../test -I../test/.  -fvisibility=hidden -fstack-protector -fdiagnostics-color=always -pedantic -Werror -Wall -Wextra -Wcast-align -Wconversion -Wdouble-promotion -Wnon-virtual-dtor -Wold-style-cast -Woverloaded-virtual -Wshadow -Wsign-conversion -Wsign-promo -Wunused -Wformat=2 -Wodr -Wno-attributes -Wnull-dereference -Wno-unused-command-line-argument -stdlib=libc++ -isystem /usr/lib/llvm-11/include/c++/v1 -g -fsanitize=address,undefined -fstack-protector-strong -std=c++20 -o test/CMakeFiles/test_main.dir/test_main.cpp.o -c /tmp_amd/ravel/export/ravel/5/z5289055/COMP6771/ass2/test/test_main.cpp",
+  "file": "/tmp_amd/ravel/export/ravel/5/z5289055/COMP6771/ass2/test/test_main.cpp"
+},
+{
+  "directory": "/tmp_amd/ravel/export/ravel/5/z5289055/COMP6771/ass2/build",
+  "command": "/usr/bin/clang++-11 -I../include -I../test/euclidean_vector -I../test/.  -fvisibility=hidden -fstack-protector -fdiagnostics-color=always -pedantic -Werror -Wall -Wextra -Wcast-align -Wconversion -Wdouble-promotion -Wnon-virtual-dtor -Wold-style-cast -Woverloaded-virtual -Wshadow -Wsign-conversion -Wsign-promo -Wunused -Wformat=2 -Wodr -Wno-attributes -Wnull-dereference -Wno-unused-command-line-argument -stdlib=libc++ -isystem /usr/lib/llvm-11/include/c++/v1 -g -fsanitize=address,undefined -fstack-protector-strong -Wno-error -Wno-self-assign-overloaded -std=c++20 -o test/euclidean_vector/CMakeFiles/ev_utility_functions_test.dir/ev_utility_functions_test.cpp.o -c /tmp_amd/ravel/export/ravel/5/z5289055/COMP6771/ass2/test/euclidean_vector/ev_utility_functions_test.cpp",
+  "file": "/tmp_amd/ravel/export/ravel/5/z5289055/COMP6771/ass2/test/euclidean_vector/ev_utility_functions_test.cpp"
+},
+{
+  "directory": "/tmp_amd/ravel/export/ravel/5/z5289055/COMP6771/ass2/build",
+  "command": "/usr/bin/clang++-11 -I../include -I../test/euclidean_vector -I../test/.  -fvisibility=hidden -fstack-protector -fdiagnostics-color=always -pedantic -Werror -Wall -Wextra -Wcast-align -Wconversion -Wdouble-promotion -Wnon-virtual-dtor -Wold-style-cast -Woverloaded-virtual -Wshadow -Wsign-conversion -Wsign-promo -Wunused -Wformat=2 -Wodr -Wno-attributes -Wnull-dereference -Wno-unused-command-line-argument -stdlib=libc++ -isystem /usr/lib/llvm-11/include/c++/v1 -g -fsanitize=address,undefined -fstack-protector-strong -Wno-error -Wno-self-assign-overloaded -std=c++20 -o test/euclidean_vector/CMakeFiles/ev_member_functions_test.dir/ev_member_functions_test.cpp.o -c /tmp_amd/ravel/export/ravel/5/z5289055/COMP6771/ass2/test/euclidean_vector/ev_member_functions_test.cpp",
+  "file": "/tmp_amd/ravel/export/ravel/5/z5289055/COMP6771/ass2/test/euclidean_vector/ev_member_functions_test.cpp"
+},
+{
+  "directory": "/tmp_amd/ravel/export/ravel/5/z5289055/COMP6771/ass2/build",
+  "command": "/usr/bin/clang++-11 -I../include -I../test/euclidean_vector -I../test/.  -fvisibility=hidden -fstack-protector -fdiagnostics-color=always -pedantic -Werror -Wall -Wextra -Wcast-align -Wconversion -Wdouble-promotion -Wnon-virtual-dtor -Wold-style-cast -Woverloaded-virtual -Wshadow -Wsign-conversion -Wsign-promo -Wunused -Wformat=2 -Wodr -Wno-attributes -Wnull-dereference -Wno-unused-command-line-argument -stdlib=libc++ -isystem /usr/lib/llvm-11/include/c++/v1 -g -fsanitize=address,undefined -fstack-protector-strong -Wno-error -Wno-self-assign-overloaded -std=c++20 -o test/euclidean_vector/CMakeFiles/ev_operations_tests.dir/ev_operations_test.cpp.o -c /tmp_amd/ravel/export/ravel/5/z5289055/COMP6771/ass2/test/euclidean_vector/ev_operations_test.cpp",
+  "file": "/tmp_amd/ravel/export/ravel/5/z5289055/COMP6771/ass2/test/euclidean_vector/ev_operations_test.cpp"
+},
+{
+  "directory": "/tmp_amd/ravel/export/ravel/5/z5289055/COMP6771/ass2/build",
+  "command": "/usr/bin/clang++-11 -I../include -I../test/euclidean_vector -I../test/.  -fvisibility=hidden -fstack-protector -fdiagnostics-color=always -pedantic -Werror -Wall -Wextra -Wcast-align -Wconversion -Wdouble-promotion -Wnon-virtual-dtor -Wold-style-cast -Woverloaded-virtual -Wshadow -Wsign-conversion -Wsign-promo -Wunused -Wformat=2 -Wodr -Wno-attributes -Wnull-dereference -Wno-unused-command-line-argument -stdlib=libc++ -isystem /usr/lib/llvm-11/include/c++/v1 -g -fsanitize=address,undefined -fstack-protector-strong -Wno-error -Wno-self-assign-overloaded -std=c++20 -o test/euclidean_vector/CMakeFiles/ev_friends_test.dir/ev_friends_test.cpp.o -c /tmp_amd/ravel/export/ravel/5/z5289055/COMP6771/ass2/test/euclidean_vector/ev_friends_test.cpp",
+  "file": "/tmp_amd/ravel/export/ravel/5/z5289055/COMP6771/ass2/test/euclidean_vector/ev_friends_test.cpp"
+},
+{
+  "directory": "/tmp_amd/ravel/export/ravel/5/z5289055/COMP6771/ass2/build",
+  "command": "/usr/bin/clang++-11 -I../include -I../test/euclidean_vector -I../test/.  -fvisibility=hidden -fstack-protector -fdiagnostics-color=always -pedantic -Werror -Wall -Wextra -Wcast-align -Wconversion -Wdouble-promotion -Wnon-virtual-dtor -Wold-style-cast -Woverloaded-virtual -Wshadow -Wsign-conversion -Wsign-promo -Wunused -Wformat=2 -Wodr -Wno-attributes -Wnull-dereference -Wno-unused-command-line-argument -stdlib=libc++ -isystem /usr/lib/llvm-11/include/c++/v1 -g -fsanitize=address,undefined -fstack-protector-strong -Wno-error -Wno-self-assign-overloaded -std=c++20 -o test/euclidean_vector/CMakeFiles/ev_constructors_test.dir/ev_constructors_test.cpp.o -c /tmp_amd/ravel/export/ravel/5/z5289055/COMP6771/ass2/test/euclidean_vector/ev_constructors_test.cpp",
+  "file": "/tmp_amd/ravel/export/ravel/5/z5289055/COMP6771/ass2/test/euclidean_vector/ev_constructors_test.cpp"
+},
+{
+  "directory": "/tmp_amd/ravel/export/ravel/5/z5289055/COMP6771/ass2/build",
+  "command": "/usr/bin/clang++-11 -I../include -I../test/euclidean_vector -I../test/.  -fvisibility=hidden -fstack-protector -fdiagnostics-color=always -pedantic -Werror -Wall -Wextra -Wcast-align -Wconversion -Wdouble-promotion -Wnon-virtual-dtor -Wold-style-cast -Woverloaded-virtual -Wshadow -Wsign-conversion -Wsign-promo -Wunused -Wformat=2 -Wodr -Wno-attributes -Wnull-dereference -Wno-unused-command-line-argument -stdlib=libc++ -isystem /usr/lib/llvm-11/include/c++/v1 -g -fsanitize=address,undefined -fstack-protector-strong -Wno-error -Wno-self-assign-overloaded -std=c++20 -o test/euclidean_vector/CMakeFiles/euclidean_vector_test1.dir/euclidean_vector_test1.cpp.o -c /tmp_amd/ravel/export/ravel/5/z5289055/COMP6771/ass2/test/euclidean_vector/euclidean_vector_test1.cpp",
+  "file": "/tmp_amd/ravel/export/ravel/5/z5289055/COMP6771/ass2/test/euclidean_vector/euclidean_vector_test1.cpp"
+}
+]

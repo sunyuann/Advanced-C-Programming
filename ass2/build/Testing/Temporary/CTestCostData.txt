@@ -1,0 +1,7 @@
+test.euclidean_vector_test1 1 0.302713
+test.ev_constructors_test 1 0.372144
+test.ev_operations_tests 1 0.343676
+test.ev_member_functions_test 1 0.349496
+test.ev_friends_test 1 0.360248
+test.ev_utility_functions_test 1 0.349163
+---

@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="Linux-clang++-11"
+	BuildStamp="20220709-1502-Experimental"
+	Name="vx7"
+	Generator="ctest-3.18.4"
+	CompilerName="/usr/bin/clang++-11"
+	CompilerVersion="11.0.1"
+	OSName="Linux"
+	Hostname="vx4"
+	OSRelease="4.9.0-18-amd64"
+	OSVersion="#1 SMP Debian 4.9.303-1 (2022-03-07)"
+	OSPlatform="x86_64"
+	Is64Bits="1"
+	VendorString="GenuineIntel"
+	VendorID="Intel Corporation"
+	FamilyID="6"
+	ModelID="79"
+	ProcessorCacheSize="35840"
+	NumberOfLogicalCPU="56"
+	NumberOfPhysicalCPU="28"
+	TotalVirtualMemory="0"
+	TotalPhysicalMemory="257869"
+	LogicalProcessorsPerPhysical="2"
+	ProcessorClockFrequency="2900.39"
+	>
+	<Testing>
+		<StartDateTime>Jul 10 01:02 AEST</StartDateTime>
+		<StartTestTime>1657378922</StartTestTime>
+		<TestList>
+			<Test>/tmp_amd/ravel/export/ravel/5/z5289055/COMP6771/ass2/build/test/euclidean_vector/test.euclidean_vector_test1</Test>
+			<Test>/tmp_amd/ravel/export/ravel/5/z5289055/COMP6771/ass2/build/test/euclidean_vector/test.ev_operations_tests</Test>
+			<Test>/tmp_amd/ravel/export/ravel/5/z5289055/COMP6771/ass2/build/test/euclidean_vector/test.ev_member_functions_test</Test>
+			<Test>/tmp_amd/ravel/export/ravel/5/z5289055/COMP6771/ass2/build/test/euclidean_vector/test.ev_constructors_test</Test>
+			<Test>/tmp_amd/ravel/export/ravel/5/z5289055/COMP6771/ass2/build/test/euclidean_vector/test.ev_utility_functions_test</Test>
+			<Test>/tmp_amd/ravel/export/ravel/5/z5289055/COMP6771/ass2/build/test/euclidean_vector/test.ev_friends_test</Test>
+		</TestList>
+		<Test Status="passed">
+			<Name>test.euclidean_vector_test1</Name>
+			<Path>/tmp_amd/ravel/export/ravel/5/z5289055/COMP6771/ass2/build/test/euclidean_vector</Path>
+			<FullName>/tmp_amd/ravel/export/ravel/5/z5289055/COMP6771/ass2/build/test/euclidean_vector/test.euclidean_vector_test1</FullName>
+			<FullCommandLine>/tmp_amd/ravel/export/ravel/5/z5289055/COMP6771/ass2/build/test/euclidean_vector/euclidean_vector_test1</FullCommandLine>
+			<Results>
+				<NamedMeasurement type="numeric/double" name="Execution Time">
+					<Value>0.302713</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Processors">
+					<Value>1</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Completion Status">
+					<Value>Completed</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Command Line">
+					<Value>/tmp_amd/ravel/export/ravel/5/z5289055/COMP6771/ass2/build/test/euclidean_vector/euclidean_vector_test1</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Environment">
+					<Value>#CTEST_RESOURCE_GROUP_COUNT=</Value>
+				</NamedMeasurement>
+				<Measurement>
+					<Value encoding="base64" compression="gzip">eJyztaUq4HLMyVEoSS0uKVYoSCwuTk1R0DBUADGKSjLz8xQy8xQMwdIKyYnFqZpcXAAFUSJ8====</Value>
+				</Measurement>
+			</Results>
+		</Test>
+		<Test Status="passed">
+			<Name>test.ev_operations_tests</Name>
+			<Path>/tmp_amd/ravel/export/ravel/5/z5289055/COMP6771/ass2/build/test/euclidean_vector</Path>
+			<FullName>/tmp_amd/ravel/export/ravel/5/z5289055/COMP6771/ass2/build/test/euclidean_vector/test.ev_operations_tests</FullName>
+			<FullCommandLine>/tmp_amd/ravel/export/ravel/5/z5289055/COMP6771/ass2/build/test/euclidean_vector/ev_operations_tests</FullCommandLine>
+			<Results>
+				<NamedMeasurement type="numeric/double" name="Execution Time">
+					<Value>0.343676</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Processors">
+					<Value>1</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Completion Status">
+					<Value>Completed</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Command Line">
+					<Value>/tmp_amd/ravel/export/ravel/5/z5289055/COMP6771/ass2/build/test/euclidean_vector/ev_operations_tests</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Environment">
+					<Value>#CTEST_RESOURCE_GROUP_COUNT=</Value>
+				</NamedMeasurement>
+				<Measurement>
+					<Value encoding="base64" compression="gzip">eJyztaUq4HLMyVEoSS0uKVYoSCwuTk1R0DCxVACxikoy8/OKFTLzFAzBChSSE4tTNbm4AEujIys=</Value>
+				</Measurement>
+			</Results>
+		</Test>
+		<Test Status="passed">
+			<Name>test.ev_member_functions_test</Name>
+			<Path>/tmp_amd/ravel/export/ravel/5/z5289055/COMP6771/ass2/build/test/euclidean_vector</Path>
+			<FullName>/tmp_amd/ravel/export/ravel/5/z5289055/COMP6771/ass2/build/test/euclidean_vector/test.ev_member_functions_test</FullName>
+			<FullCommandLine>/tmp_amd/ravel/export/ravel/5/z5289055/COMP6771/ass2/build/test/euclidean_vector/ev_member_functions_test</FullCommandLine>
+			<Results>
+				<NamedMeasurement type="numeric/double" name="Execution Time">
+					<Value>0.349496</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Processors">
+					<Value>1</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Completion Status">
+					<Value>Completed</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Command Line">
+					<Value>/tmp_amd/ravel/export/ravel/5/z5289055/COMP6771/ass2/build/test/euclidean_vector/ev_member_functions_test</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Environment">
+					<Value>#CTEST_RESOURCE_GROUP_COUNT=</Value>
+				</NamedMeasurement>
+				<Measurement>
+					<Value encoding="base64" compression="gzip">eJyztaUq4HLMyVEoSS0uKVYoSCwuTk1R0DA0UQCxikoy8/OKFTLzFAzBChSSE4tTNbm4AEqwIyM=</Value>
+				</Measurement>
+			</Results>
+		</Test>
+		<Test Status="passed">
+			<Name>test.ev_constructors_test</Name>
+			<Path>/tmp_amd/ravel/export/ravel/5/z5289055/COMP6771/ass2/build/test/euclidean_vector</Path>
+			<FullName>/tmp_amd/ravel/export/ravel/5/z5289055/COMP6771/ass2/build/test/euclidean_vector/test.ev_constructors_test</FullName>
+			<FullCommandLine>/tmp_amd/ravel/export/ravel/5/z5289055/COMP6771/ass2/build/test/euclidean_vector/ev_constructors_test</FullCommandLine>
+			<Results>
+				<NamedMeasurement type="numeric/double" name="Execution Time">
+					<Value>0.372144</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Processors">
+					<Value>1</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Completion Status">
+					<Value>Completed</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Command Line">
+					<Value>/tmp_amd/ravel/export/ravel/5/z5289055/COMP6771/ass2/build/test/euclidean_vector/ev_constructors_test</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Environment">
+					<Value>#CTEST_RESOURCE_GROUP_COUNT=</Value>
+				</NamedMeasurement>
+				<Measurement>
+					<Value encoding="base64" compression="gzip">eJyztaUq4HLMyVEoSS0uKVYoSCwuTk1R0DAyVgCxikoy8/OKFTLzFAzBChSSE4tTNbm4AEqxIyM=</Value>
+				</Measurement>
+			</Results>
+		</Test>
+		<Test Status="passed">
+			<Name>test.ev_utility_functions_test</Name>
+			<Path>/tmp_amd/ravel/export/ravel/5/z5289055/COMP6771/ass2/build/test/euclidean_vector</Path>
+			<FullName>/tmp_amd/ravel/export/ravel/5/z5289055/COMP6771/ass2/build/test/euclidean_vector/test.ev_utility_functions_test</FullName>
+			<FullCommandLine>/tmp_amd/ravel/export/ravel/5/z5289055/COMP6771/ass2/build/test/euclidean_vector/ev_utility_functions_test</FullCommandLine>
+			<Results>
+				<NamedMeasurement type="numeric/double" name="Execution Time">
+					<Value>0.349163</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Processors">
+					<Value>1</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Completion Status">
+					<Value>Completed</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Command Line">
+					<Value>/tmp_amd/ravel/export/ravel/5/z5289055/COMP6771/ass2/build/test/euclidean_vector/ev_utility_functions_test</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Environment">
+					<Value>#CTEST_RESOURCE_GROUP_COUNT=</Value>
+				</NamedMeasurement>
+				<Measurement>
+					<Value encoding="base64" compression="gzip">eJyztaUq4HLMyVEoSS0uKVYoSCwuTk1R0LBQADGKSjLz84oVMvMUDMHyCsmJxamaXFwALAci9g==</Value>
+				</Measurement>
+			</Results>
+		</Test>
+		<Test Status="passed">
+			<Name>test.ev_friends_test</Name>
+			<Path>/tmp_amd/ravel/export/ravel/5/z5289055/COMP6771/ass2/build/test/euclidean_vector</Path>
+			<FullName>/tmp_amd/ravel/export/ravel/5/z5289055/COMP6771/ass2/build/test/euclidean_vector/test.ev_friends_test</FullName>
+			<FullCommandLine>/tmp_amd/ravel/export/ravel/5/z5289055/COMP6771/ass2/build/test/euclidean_vector/ev_friends_test</FullCommandLine>
+			<Results>
+				<NamedMeasurement type="numeric/double" name="Execution Time">
+					<Value>0.360248</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Processors">
+					<Value>1</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Completion Status">
+					<Value>Completed</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Command Line">
+					<Value>/tmp_amd/ravel/export/ravel/5/z5289055/COMP6771/ass2/build/test/euclidean_vector/ev_friends_test</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Environment">
+					<Value>#CTEST_RESOURCE_GROUP_COUNT=</Value>
+				</NamedMeasurement>
+				<Measurement>
+					<Value encoding="base64" compression="gzip">eJytjsEKwjAQRO/5ijnqpbQUsRQ8iB/gB4iHNE002CYhu0H8exu1XgS9uJcd2Jm3sztrdYE1MD6OkvOCTxwSgzhqOcJEq10Pk5xi6x0sQfkYtWJ0t0mOQUbrTqAUgifdQ05uqTjJYbomnsmdHvy1Ffuv8Dfk2aHFoSqLFeqiRommqY8/8q+/cxqf+c1/R2yHAayJCUFSbr6o1sgq5kIE61A9DFCS9FKIO0svdxs=</Value>
+				</Measurement>
+			</Results>
+		</Test>
+		<EndDateTime>Jul 10 01:02 AEST</EndDateTime>
+		<EndTestTime>1657378922</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>
